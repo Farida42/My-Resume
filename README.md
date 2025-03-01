@@ -40,3 +40,4 @@
 - ❌⭕ **Tic-Tac-Toe Game** _(Python)_  🔗 **[GitHub](https://github.com/Farida42/Software-Engineering-Lab/tree/main/Project%20without%20framework)**
 - 🔢 **Numerical Differential Calculator** (Python)  🔗 **[Google Drive](https://drive.google.com/drive/u/0/folders/1DJA1mNemN734rqzuwFZaH6nQSfLdx0xP)**
 - 📚 **English Dictionary** (Python)  
+📄 **Download Resume (PDF)**: [Farida_Nusrat_Resume.pdf](https://github.com/Farida42/My-Resume/blob/main/README.md)
