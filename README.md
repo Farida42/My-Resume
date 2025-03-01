@@ -33,8 +33,11 @@ International Islamic University Chittagong | 2020 - 2023
 
 ## 💻 Technical Skills
 
-- **Languages:** JavaScript, Python, C++, HTML, CSS  
-- **Databases:** MySQL  
+- **Languages:** C, C++, Python
+- **Web Development** HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Operating Systems:** Windows, Kali_Linux
+- **Other Skills:** Problem Solving  
 - **Tools:** Git  
 
 ---
