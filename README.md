@@ -1,6 +1,6 @@
  <h1 align="center">Farida Nusrat</h1>
 
- <h3 align="center">📍 **Chittagong, Bangladesh**  📧 [sumona.nusrat.07@gmail.com](mailto:sumona.nusrat.07@gmail.com)  📞 0183925529  🔗 [Farida42](https://github.com/Farida42)</h3>
+📍 **Chittagong, Bangladesh**  📧 [sumona.nusrat.07@gmail.com](mailto:sumona.nusrat.07@gmail.com)  📞 0183925529  🔗 [Farida42](https://github.com/Farida42)
 
     
 ### 🌐 Online Profiles  
