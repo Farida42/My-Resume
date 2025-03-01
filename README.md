@@ -3,13 +3,10 @@
 📍 **Chittagong, Bangladesh**  📧 [sumona.nusrat.07@gmail.com](mailto:sumona.nusrat.07@gmail.com)  📞 0183925529  
 
 ## 🎓 Education  
-
 ### **Bachelor of Science in Computer Science**  
 📌 **International Islamic University Chittagong** _(2020 - 2023)_  
-
 ### **H.S.C**  
 📌 **Agrabad Mohila College** _(2017 - 2018)_  
-
 ### **S.S.C**  
 📌 **Garib-E-Newaz High School** _(2015 - 2016)_  
 
@@ -24,15 +21,12 @@
 - ![Kattis](https://img.shields.io/badge/Kattis-0055A4.svg?logo=coderwall&logoColor=white)
 - ![CSES](https://img.shields.io/badge/CSES-1F8ACB.svg) 
 
-
 ## 💻 Technical Skills
-
 - **Languages:** C, C++, Python
 - **Web Development** HTML, CSS, JavaScript
 - **Database:** MySQL
 - **Operating Systems:** Windows, Kali_Linux
 - **Other Skills:** Problem Solving  
-
 
 ## 🚀 Projects
  - **Online Library Management System** 🌱 _(HTML, CSS, SQL, JavaScript, PHP)_ 🔗 **[GitHub](https://github.com/Farida42/Library-Management-System)**  
