@@ -44,9 +44,9 @@
 ---
 
 ## 🚀 Projects
-- ### **Online Library Management System** 🌱 _(HTML, CSS, SQL, JavaScript, PHP)_ 🔗 **[GitHub Repo](https://github.com/Farida42/Library-Management-System)**  
-- ### 🔢 **Simulation of Calculator Keypad** (Arduino)  🔗 **[GitHub Repo](https://github.com/Farida42/EEE_project_calculator)**
-- ### **Tic-Tac-Toe Game** ❌⭕ _(Python)_  🔗 **[GitHub Repo](https://github.com/Farida42/Software-Engineering-Lab/tree/main/Project%20without%20framework)**
+- ### **Online Library Management System** 🌱 _(HTML, CSS, SQL, JavaScript, PHP)_ 🔗 **[GitHub](https://github.com/Farida42/Library-Management-System)**  
+- ### 🔢 **Simulation of Calculator Keypad** (Arduino)  🔗 **[GitHub](https://github.com/Farida42/EEE_project_calculator)**
+- ### ❌⭕ **Tic-Tac-Toe Game** _(Python)_  🔗 **[GitHub Repo](https://github.com/Farida42/Software-Engineering-Lab/tree/main/Project%20without%20framework)**
 - ### 🔢 **Numerical Differential Calculator** (Python)  🔗 **[Google Drive link](https://drive.google.com/drive/u/0/folders/1DJA1mNemN734rqzuwFZaH6nQSfLdx0xP)**
 - ### 📚 **English Dictionary** (Python)  
 ---
