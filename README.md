@@ -12,7 +12,6 @@
 
 ### Bachelor of Science in Computer Science
 **International Islamic University Chittagong** (2020 - 2023)
-
 📍 Chittagong, Bangladesh  
 
 ### H.S.C  
