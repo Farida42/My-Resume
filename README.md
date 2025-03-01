@@ -1,13 +1,12 @@
  <h1 align="center">Farida Nusrat</h1>
 
-📍 **Chittagong, Bangladesh**  📧 [sumona.nusrat.07@gmail.com](mailto:sumona.nusrat.07@gmail.com)  📞 0183925529  🔗 [Farida42](https://github.com/Farida42)
+ <h3 align="center">📍 **Chittagong, Bangladesh**  📧 [sumona.nusrat.07@gmail.com](mailto:sumona.nusrat.07@gmail.com)  📞 0183925529  🔗 [Farida42](https://github.com/Farida42)</h3>
 
     
 ### 🌐 Online Profiles  
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Farida42)
 - [![Toph](https://img.shields.io/badge/Toph-FF5722?logo=toptal&logoColor=white)](https://toph.co/u/C201242_Nusrat)
 - ![VJudge](https://img.shields.io/badge/VJudge-007396.svg?logo=codechef&logoColor=white)
-- ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?logo=codeforces&logoColor=white)
 - ![Kattis](https://img.shields.io/badge/Kattis-0055A4.svg?logo=coderwall&logoColor=white)
 - ![CSES](https://img.shields.io/badge/CSES-1F8ACB.svg)
 
