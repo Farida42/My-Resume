@@ -7,13 +7,12 @@
 📌 International Islamic University Chittagong _(2020 - 2023)_  
 ----
 ## 🏆 Comperatitive Programming:
-- ![Codeforces](https://codeforces.com/profile/c201242)
-- ![UVa](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15)(Submissions:97)
-- ![GitHub](https://github.com/Farida42)
-- ![Toph](https://toph.co/u/C201242_Nusrat)
-- ![VJudge](https://vjudge.net/user/C201242)
-- ![Kattis](https://open.kattis.com/users/farida-nusrat)
-- ![CSES](https://img.shields.io/badge/CSES-1F8ACB.svg)()
+- [**Codeforces**](https://codeforces.com/profile/c201242)
+- [**UVa**](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15) (Submissions: 97)
+- [**GitHub**](https://github.com/Farida42)
+- [**Toph**](https://toph.co/u/C201242_Nusrat)
+- [**VJudge**](https://vjudge.net/user/C201242)
+- [**Kattis**](https://open.kattis.com/users/farida-nusrat)
 ----
 ## 💻 Technical Skills
 - **Languages:** C, C++, Python
