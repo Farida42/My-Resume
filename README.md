@@ -7,12 +7,12 @@
 📌 International Islamic University Chittagong _(2020 - 2023)_  
 ----
 ## 🏆 Comperatitive Programming:
-- ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?logoColor=white)(https://codeforces.com/profile/c201242)
-- ![UVa](https://img.shields.io/badge/UVa-1F8ACB.svg?logoColor=white)(https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15)(Submissions:97)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Farida42)
-- ![Toph](https://img.shields.io/badge/Toph-FF5722?logo=toptal&logoColor=white)](https://toph.co/u/C201242_Nusrat)
-- ![VJudge](https://img.shields.io/badge/VJudge-007396.svg?logo=codechef&logoColor=white)(https://vjudge.net/user/C201242)
-- ![Kattis](https://img.shields.io/badge/Kattis-0055A4.svg?logo=coderwall&logoColor=white)(https://open.kattis.com/users/farida-nusrat)
+- ![Codeforces](https://codeforces.com/profile/c201242)
+- ![UVa](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15)(Submissions:97)
+- ![GitHub](https://github.com/Farida42)
+- ![Toph](https://toph.co/u/C201242_Nusrat)
+- ![VJudge](https://vjudge.net/user/C201242)
+- ![Kattis](https://open.kattis.com/users/farida-nusrat)
 - ![CSES](https://img.shields.io/badge/CSES-1F8ACB.svg)()
 ----
 ## 💻 Technical Skills
