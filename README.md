@@ -1,10 +1,10 @@
 Farida Nusrat
----
+----
 📍 **Chittagong, Bangladesh**  📧 [sumona.nusrat.07@gmail.com](mailto:sumona.nusrat.07@gmail.com)  📞 0183925529  
-
+----
 ## 🎓 Education  
 ### **Bachelor of Science in Computer Science**  
-📌 International Islamic University Chittagong _(2020 - 2023)_  
+- 📌 International Islamic University Chittagong _(2020 - 2023)_  
 ----
 ## 🏆 Comperatitive Programming:
 - [**Codeforces**](https://codeforces.com/profile/c201242)
