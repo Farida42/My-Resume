@@ -26,7 +26,7 @@
 - **Other Skills:** Problem Solving  
 ----
 ## 🚀 Projects
-- **Tution Media**( C++) 🔗 **[GitHub](https://github.com/Farida42/Project_Tution-Media)
+- **Tution Media**( C++) 🔗 **[GitHub](https://github.com/Farida42/Project_Tution-Media)**
 - **Online Library Management System** 🌱 _(HTML, CSS, SQL, JavaScript, PHP)_ 🔗 **[GitHub](https://github.com/Farida42/Library-Management-System)**  
 - **Simulation of Calculator Keypad**  🔢(Arduino) 🔗 **[GitHub](https://github.com/Farida42/EEE_project_calculator)**
 - **Tic-Tac-Toe Game** ❌⭕_(Python)_ 🔗 **[GitHub](https://github.com/Farida42/Software-Engineering-Lab/tree/main/Project%20without%20framework)**
