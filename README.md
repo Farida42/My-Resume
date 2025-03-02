@@ -1,5 +1,5 @@
 <h1>Farida Nusrat</h1>
-----
+
 📍 **Chittagong, Bangladesh**  📧 [sumona.nusrat.07@gmail.com](mailto:sumona.nusrat.07@gmail.com)  📞 0183925529  
 ----
 ## 🎓 Education  
