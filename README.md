@@ -28,6 +28,6 @@ Farida Nusrat
  - **Simulation of Calculator Keypad**  🔢(Arduino) 🔗 **[GitHub](https://github.com/Farida42/EEE_project_calculator)**
 - **Tic-Tac-Toe Game** ❌⭕_(Python)_ 🔗 **[GitHub](https://github.com/Farida42/Software-Engineering-Lab/tree/main/Project%20without%20framework)**
 - **Numerical Differential Calculator**  🔢_(Python)_  🔗 **[Github](https://github.com/Farida42/Numerical-Differential-Calculator)**
--  **English Dictionary using python framework Django** 📚_(Python)_ 🔗 **[GitHub](https://github.com/Farida42/Software-Engineering-Lab/tree/main/Django)**
+-  **English Dictionary using framework Django** 📚_(Python)_ 🔗 **[GitHub](https://github.com/Farida42/Software-Engineering-Lab/tree/main/Django)**
 -  **Parlour and Saloon Management System** **[GitHub](https://github.com/Farida42/Parlour-and-Saloon-Management-System)**
 ---
