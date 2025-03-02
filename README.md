@@ -1,4 +1,4 @@
-Farida Nusrat
+<h1>Farida Nusrat</h1>
 ----
 📍 **Chittagong, Bangladesh**  📧 [sumona.nusrat.07@gmail.com](mailto:sumona.nusrat.07@gmail.com)  📞 0183925529  
 ----
@@ -14,6 +14,8 @@ Farida Nusrat
 - [**VJudge**](https://vjudge.net/user/C201242)
 - [**Kattis**](https://open.kattis.com/users/farida-nusrat)
 - [**CSES**](https://cses.fi/user/99559)
+- [**CodeChef**](https://www.codechef.com/users/farida242)
+- [**AtCoder**](https://atcoder.jp/users/FaridaNusrat42)
 ----
 ## 💻 Technical Skills
 - **Languages:** C, C++, Python
@@ -30,4 +32,6 @@ Farida Nusrat
 - **Numerical Differential Calculator**  🔢_(Python)_  🔗 **[Github](https://github.com/Farida42/Numerical-Differential-Calculator)**
 -  **English Dictionary using framework Django** 📚_(Python)_ 🔗 **[GitHub](https://github.com/Farida42/Software-Engineering-Lab/tree/main/Django)**
 -  **Parlour and Saloon Management System** **[GitHub](https://github.com/Farida42/Parlour-and-Saloon-Management-System)**
+- **Animals Identification Expert System using Prolog**
+
 ---
