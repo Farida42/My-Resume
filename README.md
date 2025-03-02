@@ -1,4 +1,4 @@
- <h1 align="center">Farida Nusrat</h1>
+Farida Nusrat
 ---
 📍 **Chittagong, Bangladesh**  📧 [sumona.nusrat.07@gmail.com](mailto:sumona.nusrat.07@gmail.com)  📞 0183925529  
 
@@ -13,6 +13,7 @@
 - [**Toph**](https://toph.co/u/C201242_Nusrat)
 - [**VJudge**](https://vjudge.net/user/C201242)
 - [**Kattis**](https://open.kattis.com/users/farida-nusrat)
+- [**CSES**](https://cses.fi/user/99559)
 ----
 ## 💻 Technical Skills
 - **Languages:** C, C++, Python
@@ -27,7 +28,6 @@
  - **Simulation of Calculator Keypad**  🔢(Arduino) 🔗 **[GitHub](https://github.com/Farida42/EEE_project_calculator)**
 - **Tic-Tac-Toe Game** ❌⭕_(Python)_ 🔗 **[GitHub](https://github.com/Farida42/Software-Engineering-Lab/tree/main/Project%20without%20framework)**
 - **Numerical Differential Calculator**  🔢_(Python)_  🔗 **[Github](https://github.com/Farida42/Numerical-Differential-Calculator)**
--  **English Dictionary using python framework Django** 📚_(Python)_
+-  **English Dictionary using python framework Django** 📚_(Python)_ 🔗 **[GitHub](https://github.com/Farida42/Software-Engineering-Lab/tree/main/Django)**
 -  **Parlour and Saloon Management System** **[GitHub](https://github.com/Farida42/Parlour-and-Saloon-Management-System)**
-- ** **
-- 
+---
