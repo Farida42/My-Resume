@@ -19,8 +19,8 @@
 ----
 ## 💻 Technical Skills
 - **Languages:** C, C++, Python
-- **Web Development** HTML, CSS, JavaScript
-- **Backend** PHP
+- **Web Development:** HTML, CSS, JavaScript
+- **Backend:** PHP
 - **Database:** MySQL,PL/SQL
 - **Operating Systems:** Windows, Kali_Linux
 - **Other Skills:** Problem Solving  
