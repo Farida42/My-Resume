@@ -4,7 +4,7 @@
 ----
 ## 🎓 Education  
 ### **Bachelor of Science in Computer Science**  
-- 📌 International Islamic University Chittagong _(2020 - 2023)_  
+- 📌 International Islamic University Chittagong _(2020 - 2025)_  
 ----
 ## 🏆 Comperatitive Programming:
 - [**Codeforces**](https://codeforces.com/profile/c201242)
