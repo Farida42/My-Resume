@@ -115,6 +115,6 @@ Technology: Prolog
 
 ## Professional Summary
 
-Undergraduate Computer Science student with strong experience in competitive programming, software development, and academic research. Published IEEE conference papers and datasets in multilingual sarcasm detection. Interested in advanced research and development in natural language processing, intelligent systems, and deep learning applications.
+Graduate Computer Science student with strong experience in competitive programming, software development, and academic research. Published IEEE conference papers and datasets in multilingual sarcasm detection. Interested in advanced research and development in natural language processing, intelligent systems, and deep learning applications.
 
 ---
