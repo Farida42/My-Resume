@@ -16,18 +16,15 @@ International Islamic University Chittagong (IIUC)
 ---
 
 ## Publications
-
-**2024**  
+ 
 F. Nusrat, "Addressing Class Imbalance with FSVM and Interpreting Key Determinants in Thyroid Diagnosis through Explainable AI,"  
 *2024 27th International Conference on Computer and Information Technology (ICCIT)*, Cox's Bazar, Bangladesh, pp. 2464–2469.  
 DOI: [10.1109/ICCIT64611.2024.11022152](https://doi.org/10.1109/ICCIT64611.2024.11022152)
-
-**2025**  
+  
 F. Nusrat, "Multilingual Sarcasm Detection (Bengali, English and Banglish) Dataset,"  
 *Mendeley Data*, V1, Published: 11 February 2025.  
 DOI: [10.17632/8dz3kgxmfk.1](https://doi.org/10.17632/8dz3kgxmfk.1)
-
-**2025**  
+ 
 F. Nusrat, "Multilingual Sarcasm Detection Using Deep Learning and Transformer-Based Model,"  
 *2025 2nd International Conference on Natural Language Processing and Information Retrieval (NCIM)*, Gazipur, Bangladesh, 27–28 June 2025.  
 DOI: [10.1109/NCIM65934.2025.11159986](https://doi.org/10.1109/NCIM65934.2025.11159986)
@@ -121,5 +118,3 @@ Technology: Prolog
 Undergraduate Computer Science student with strong experience in competitive programming, software development, and academic research. Published IEEE conference papers and datasets in multilingual sarcasm detection. Interested in advanced research and development in natural language processing, intelligent systems, and deep learning applications.
 
 ---
-
-*This GitHub profile highlights academic research, software projects, and competitive programming experience in a professional and academic standard format.*
