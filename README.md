@@ -97,4 +97,3 @@ Technology: Prolog
 
 ---
 
-*This profile showcases academic projects, competitive programming experience, and software development skills.*
