@@ -107,10 +107,10 @@ Chittagong, Bangladesh | July 2024 – May 2025
 ---
 
 ## Certifications
-**Hugging Face Projects:** Simplilearn | Skillup | Online | Credential/URL: 9615647
-● **Applied Data Analysiswith R (Hands-on Training Program):** Chittagong University Scientific
+- **Hugging Face Projects:** Simplilearn | Skillup | Online | Credential/URL: 9615647
+- **Applied Data Analysiswith R (Hands-on Training Program):** Chittagong University Scientific
 Society (CUSS) & StatX | Online | 17 Dec 2025- 21 Dec 2025
-● **Data Analytics for Absolute Beginners:** Ostad | Online | Credential/URL: C38874 
+- **Data Analytics for Absolute Beginners:** Ostad | Online | Credential/URL: C38874 
 
 ---
 
